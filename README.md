@@ -1,4 +1,4 @@
-# Induction- Day1
+# Induction Program - Day1
 The first day of my college life began with a peaceful and spiritual start. We attended a Shabad Kirtan at Guru Sahib, and it really set a calm and positive tone for the day. After that, we were treated to a tea party where we casually interacted with other freshers and began getting comfortable in this new environment.
 
 Next, we all headed to the auditorium for the inaugural ceremony. The event was hosted by Tarnveer Kaur, who kept the flow going smoothly. Harsimran ma'am then gave us a short but informative talk about the college’s background and achievements over the years. One of the former professors also spoke and shared some really thoughtful quotes that left a mark on many of us.
