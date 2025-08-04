@@ -1,5 +1,5 @@
 
-## branch- ECE (Electronics and communication)
+## Branch- ECE (Electronics and communication)
 ## Name - Tanishq Kumar
 # Induction Program - Day1
 ## Date-30 August , 2025
