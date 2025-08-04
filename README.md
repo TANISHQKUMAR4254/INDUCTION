@@ -10,6 +10,7 @@ The chief guest, Mahesh Inder Singh, gave a heartfelt speech. He shared some per
 
 After a short break, we were guided to our respective departments based on our chosen branches. It was great to see the campus more closely and meet some of the faculty. That marked the end of Day 1.
 # Day-2
+# Date - 1 August , 2025
 Today was my second day at college, and it was full of exciting events and insightful lectures. The day began with an expert lecture by Dr. Priya Darshani on universal human values. She emphasized how our efforts can lead to happiness and prosperity, distinguishing between physical facilities and true understanding. 
 
 Then came a pleasant surprise—a presentation about the Satya Scholarship. It was great to learn about the opportunity, and they guided us step-by-step on how to register for it. It's exciting to see such support for students right from the start.
