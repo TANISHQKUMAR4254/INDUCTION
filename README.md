@@ -1,3 +1,6 @@
+Date-30 August , 2025
+branch- ECE (Electronics and communication)
+Name - Tanishq Kumar
 # Induction Program - Day1
 The first day of my college life began with a peaceful and spiritual start. We attended a Shabad Kirtan at Guru Sahib, and it really set a calm and positive tone for the day. After that, we were treated to a tea party where we casually interacted with other freshers and began getting comfortable in this new environment.
 
