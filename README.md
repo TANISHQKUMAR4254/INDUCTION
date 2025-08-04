@@ -19,6 +19,15 @@ Then came a pleasant surprise—a presentation about the Satya Scholarship. It w
 Next up was Dr. Arvind Dhingra, the director of STEP and in-charge of TAC, who delivered an inspiring lecture. He shared valuable insights and advice, which left a lasting impression on us all.
 
 After a short break, we had two subject tests—one in English and another in Maths. It was a bit challenging, but a good way to assess our understanding early on. The day wrapped up with a sense of accomplishment and anticipation for what's to come in this journey at college.
+# Day-3
+## Date - 4 august , 2025
+The third day of college started with a session by the Causmic Club in the auditorium. We were told that this club was formed in 2025 mainly to organise various college events and activities. They also gave us a brief tutorial on how to create a GitHub account and how to upload our projects there, which was something new and interesting for many of us.
+
+After that, we had another session on Human Resource Values by Dr. Priya Darshani ma'am. She continued from where she left off earlier, going deeper into the topic. While it was informative, the session was quite long, and to be honest, some students started feeling a little bored.
+
+Post break, we had our first proper subject-wise lectures. The first one was English by Prof. Nisha. It was really engaging—everyone got a chance to introduce themselves, and she also explained a few grammar tips that are important for speaking confidently. It felt nice to have such an interactive class.
+
+The final lecture of the day was a P2P (Peer-to-Peer) session, where our seniors taught us some basics of the C++ programming language. They even gave us code snippets to try out on our laptops using a compiler, which made the session hands-on and practical. And with that, our third day at college came to an end!
 
 
 
