@@ -44,8 +44,15 @@ Following this, Mr. Manpreet Singh, a fitness expert, took the stage, enlighteni
 After a rejuvenating break, we transitioned to our first physics lecture conducted by Prof. Jaspreet Singh. He introduced us to the foundational aspects of physics and outlined the semester's syllabus, focusing particularly on the intriguing realm of electromagnetism, which will be our initial exploration. His explanation of key terminologies and concepts sparked our curiosity and set a promising tone for the semester ahead.
 
 Later in the day, we attended a session on P2P (Peer-to-Peer) learning, where we received a comprehensive introduction to the basics of C++. The classes concluded with a sense of accomplishment as we absorbed fundamental knowledge that will undoubtedly form the bedrock of our technical journey in the coming years.
+# Day-6
+## Date - 7 August, 2025
+The sixth day of our college induction program began with subject-wise lectures, setting an academic tone for the day. Our first lecture was by Prof. Jaspreet Singh, our Physics teacher, who introduced us to the concept of partial differentiation. He explained its use in solving problems and gave us a few practice questions as well. He also emphasized the importance of revising our Class 11 and 12 concepts, which would help us strengthen our foundation in Physics.
 
+Next, we had our Mathematics lecture by Prof. Sandeep Kaur Gill. She informed us that the first unit of our semester would focus on differential equations. She began by asking questions to check our understanding from previous classes, and then, quite unexpectedly, asked about our Class 12 board exam marks in Maths. The session turned out to be quite productive, as she not only clarified previously learned concepts but also introduced us to some new meanings and perspectives in mathematics.
 
+After a short break, we all headed to the auditorium for an enlightening session by Dr. Lakhvir Singh Khana, the incharge of the Central Multifacilitated Learning department. He introduced us to various online programs related to soft skills and personality development. What really amazed us was the mention of some premium study courses, including those associated with IITs, being available for free or minimal charges. The lecture gave us a whole new outlook on self-improvement opportunities available to us beyond the classroom.
+
+The final session of the day was delivered by Dr. Jasvir Singh Grewal, the incharge of NSS (National Service Scheme). He spoke about how the NSS plays a vital role in shaping responsible and mature citizens. He shared the core values and goals of the organization and encouraged us to participate actively in social service. To wrap up the day on a lighter note, a short comedy act was organized, which brought smiles and laughter to everyone's faces—ending our day on a cheerful and positive note.
 
 
 
