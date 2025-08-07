@@ -35,6 +35,15 @@ The fourth day at college began with an unexpected twist. As I arrived in the af
 Later, we gathered again in the auditorium for a captivating lecture by Mrs. Shaffy Makkar on the wonders of millets as a superfood. The atmosphere was engaging, with Mrs. Makkar delving into the nutritional benefits of millets, emphasizing their protein content and sharing insights into their culinary history. Her interactive approach encouraged many students, including myself, to actively participate, making the lecture both informative and enjoyable.
 
 The day concluded with a sense of camaraderie and newfound knowledge about millets, leaving us eager for more enriching experiences in the days to come. As a college fresher, each day brings new surprises and opportunities for learning, and I look forward to embracing all that this journey has to offer.
+# Day-5
+## Date- 6 August, 2025
+As the fifth day of our induction program unfolded, we were greeted with a diverse array of insightful sessions and engaging lectures. The day commenced with a stimulating lecture by Dr. Parminder Singh, the Dean of Student Welfare, where we delved into the dynamic world of clubs and their activities. We learned about the upcoming youth festivals and how these platforms foster creativity and collaboration among students.
+
+Following this, Mr. Manpreet Singh, a fitness expert, took the stage, enlightening us on the importance of physical well-being tailored specifically for engineers. His session was not just informative but also interactive, with many fitness enthusiasts eagerly posing questions about protein intake, managing sugar levels, and understanding the psychology of fitness. 
+
+After a rejuvenating break, we transitioned to our first physics lecture conducted by Prof. Jaspreet Singh. He introduced us to the foundational aspects of physics and outlined the semester's syllabus, focusing particularly on the intriguing realm of electromagnetism, which will be our initial exploration. His explanation of key terminologies and concepts sparked our curiosity and set a promising tone for the semester ahead.
+
+Later in the day, we attended a session on P2P (Peer-to-Peer) learning, where we received a comprehensive introduction to the basics of C++. The classes concluded with a sense of accomplishment as we absorbed fundamental knowledge that will undoubtedly form the bedrock of our technical journey in the coming years.
 
 
 
