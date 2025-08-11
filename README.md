@@ -58,7 +58,11 @@ The final session of the day was delivered by Dr. Jasvir Singh Grewal, the incha
 The seventh day of college began with an introduction to the various workshops, and our batch was assigned to the welding workshop. Our teacher started by explaining the different types of metals, their properties, and their uses in real life. We also learned about the various types of welding, along with the instruments and equipment used in the process. He even shared some interesting real-life examples, which made the session more relatable and engaging.
 
 The lecture was quite detailed and stretched over the entire day. While it was long, it gave us a good understanding of how welding works and its importance in practical applications. As a fresher, it felt exciting to step into a hands-on learning environment and get a glimpse of the technical skills we will be developing in the coming years.
+# Day - 8
+## Date - 11 August , 2025
+The eighth day of college started with a scheduled lecture .our first lecture by our seniors, where they gave us a brief yet informative session on making templates for posters. They explained the basics of layout design, color combinations, and how to make a poster visually appealing, which felt quite creative and different from our usual academic sessions.
 
+Our second lecture was taken by our physics teacher, who introduced us to the topic of lasers. It was fascinating to see how the concept connected to what we had learned in our Class 12 syllabus, but with more depth and real-life applications. The professor used creative examples, making the topic even more engaging. After a short break, we returned to the workshops, where the welding session continued from the previous day, giving us more practical exposure to the techniques and tools.
 
 
 
