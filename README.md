@@ -53,7 +53,11 @@ Next, we had our Mathematics lecture by Prof. Sandeep Kaur Gill. She informed us
 After a short break, we all headed to the auditorium for an enlightening session by Dr. Lakhvir Singh Khana, the incharge of the Central Multifacilitated Learning department. He introduced us to various online programs related to soft skills and personality development. What really amazed us was the mention of some premium study courses, including those associated with IITs, being available for free or minimal charges. The lecture gave us a whole new outlook on self-improvement opportunities available to us beyond the classroom.
 
 The final session of the day was delivered by Dr. Jasvir Singh Grewal, the incharge of NSS (National Service Scheme). He spoke about how the NSS plays a vital role in shaping responsible and mature citizens. He shared the core values and goals of the organization and encouraged us to participate actively in social service. To wrap up the day on a lighter note, a short comedy act was organized, which brought smiles and laughter to everyone's faces—ending our day on a cheerful and positive note.
+# Day - 7
+## Date - 8 August ,2025
+The seventh day of college began with an introduction to the various workshops, and our batch was assigned to the welding workshop. Our teacher started by explaining the different types of metals, their properties, and their uses in real life. We also learned about the various types of welding, along with the instruments and equipment used in the process. He even shared some interesting real-life examples, which made the session more relatable and engaging.
 
+The lecture was quite detailed and stretched over the entire day. While it was long, it gave us a good understanding of how welding works and its importance in practical applications. As a fresher, it felt exciting to step into a hands-on learning environment and get a glimpse of the technical skills we will be developing in the coming years.
 
 
 
