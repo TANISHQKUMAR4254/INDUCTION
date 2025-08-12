@@ -63,6 +63,11 @@ The lecture was quite detailed and stretched over the entire day. While it was l
 The eighth day of college started with a scheduled lecture .our first lecture by our seniors, where they gave us a brief yet informative session on making templates for posters. They explained the basics of layout design, color combinations, and how to make a poster visually appealing, which felt quite creative and different from our usual academic sessions.
 
 Our second lecture was taken by our physics teacher, who introduced us to the topic of lasers. It was fascinating to see how the concept connected to what we had learned in our Class 12 syllabus, but with more depth and real-life applications. The professor used creative examples, making the topic even more engaging. After a short break, we returned to the workshops, where the welding session continued from the previous day, giving us more practical exposure to the techniques and tools.
+# Day - 9 
+## Date - 12 August , 2025
+The ninth day of college kicked off in the TCC hall with the making of our student ID cards, which felt like a small but official step into college life. Our first economics lecture was skipped, so we got a bit of a slow start. Soon after, our physics lecture began, where we continued exploring the topic of lasers. It was even more exciting this time as we got to perform some practical work related to the concept, making the class both interactive and fun.
+
+After a short break, we had our very first PPS (Programming for Problem Solving) class. Our teacher patiently explained the different components of a computer and gave us a basic introduction to programming languages. As someone just starting out, it felt like opening the first page of a whole new chapter in learning. Overall, the day was a mix of official formalities, hands-on science, and the first step into the world of programming.
 
 
 
