@@ -68,7 +68,11 @@ Our second lecture was taken by our physics teacher, who introduced us to the to
 The ninth day of college kicked off in the TCC hall with the making of our student ID cards, which felt like a small but official step into college life. Our first economics lecture was skipped, so we got a bit of a slow start. Soon after, our physics lecture began, where we continued exploring the topic of lasers. It was even more exciting this time as we got to perform some practical work related to the concept, making the class both interactive and fun.
 
 After a short break, we had our very first PPS (Programming for Problem Solving) class. Our teacher patiently explained the different components of a computer and gave us a basic introduction to programming languages. As someone just starting out, it felt like opening the first page of a whole new chapter in learning. Overall, the day was a mix of official formalities, hands-on science, and the first step into the world of programming.
+# Day - 10
+## Date - 13 August , 2025
+The thirteenth day of college began with our welding workshop, where we continued with the practical work from the previous session. This time, more of the basic concepts were explained, which made the process feel much easier and more interesting. After that, we headed to our physics lecture, where the topic of lasers was taken further, connecting more deeply with what we had already learned.
 
+Following a short break, we had a long session of engineering drawing. Our teacher demonstrated how to write alphabets neatly on graph paper and also gave us a detailed explanation of how to properly use a drafter. It was a hands-on and skill-focused day, balancing both technical learning and practical application.
 
 
 
