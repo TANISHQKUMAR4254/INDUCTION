@@ -76,7 +76,7 @@ Following a short break, we had a long session of engineering drawing. Our teach
 
 # Day - 11 
 ## Date - 14 August , 2025
-The fourteenth day of college began quite unexpectedly as the first two lectures of the day were skipped by7 me due to heavy rain. I reached just in time for our maths lecture where the teacher gave us a detailed overview of the entire first semester syllabus, which made me both excited and a bit nervous about the upcoming chapters. After a short break, our economics class took place in which the basic principles of the subject were broken down in a very simple and interesting way, making it easier for us to understand.
+The fourteenth day of college began quite unexpectedly as the first two lectures of the day were skipped by me due to heavy rain. I reached just in time for our maths lecture where the teacher gave us a detailed overview of the entire first semester syllabus, which made me both excited and a bit nervous about the upcoming chapters. After a short break, our economics class took place in which the basic principles of the subject were broken down in a very simple and interesting way, making it easier for us to understand.
 
 Finally, we had our physics lecture where our professor connected different mathematical formulas and relations to explain physics concepts. He also derived a few important derivations on the board, helping us understand how maths and physics go hand in hand. Overall, despite the rainy start, the day turned out to be quite productive and informative.
 
